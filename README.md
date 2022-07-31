@@ -1,1 +1,1 @@
-# Drover-UAV-and-UGV-Autonomous-Cooperation-for-Wildfire-Hotspot-Detection
+# Drover-UAV-and-UGV-Autonomous-Cooperation-for-Wildfire-Hotspot-Surveillance
