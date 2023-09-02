@@ -2,8 +2,6 @@
 
 This repository is the code for the paper [_UAV and UGV Autonomous Cooperation for Wildfire Hotspot Surveillance_](https://ieeexplore.ieee.org/document/10002208/) published in IEEE and presented at the MIT Undergraduate Research and Technology Conference. 
 
-
-
 ## Abstract
 As wildfires burn millions of acres each year around the globe and have become more severe due to climate change, wildfire prevention is more important now than ever. Existing wildfire surveying techniques such as hotspotting and cold trailing require human interventions that can lead to dangerous situations or satellite imagery which does not provide real-time data on hotspots. To address this problem, we propose a low-cost and effective integrated system of robots composed of an unmanned aerial vehicle (UAV, or drone) and unmanned ground vehicle (UGV, or rover) that autonomously cooperate and pathfind to detect and investigate hotspots. The UAV monitors a post-forest fire area from the air and uses aerial footage to create long-term direction for the UGV to inspect specific suspected hotspots. The UGV then follows the path to investigate each hotspot with centimeter-level accuracy. Testing of the pathfinding system with satellite imagery yielded highly accurate and consistent results necessary for high-precision autonomous navigation when investigating hotspots in dynamic environments.
 
