@@ -11,8 +11,8 @@ As wildfires burn millions of acres each year around the globe and have become m
 
 *Picture of the Drone*
 
-![image](https://github.com/IRT-Drover/UAV-and-UGV-Autonomous-Cooperation-for-Wildfire-Hotspot-Surveillance/assets/74738050/5579a661-48cd-47b0-886c-6625530fd0f0 *Picture of the Rover*)
-
+![image](https://github.com/IRT-Drover/UAV-and-UGV-Autonomous-Cooperation-for-Wildfire-Hotspot-Surveillance/assets/74738050/5579a661-48cd-47b0-886c-6625530fd0f0)
+*Picture of the Rover*
 
 
 ## System Design
