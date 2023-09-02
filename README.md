@@ -11,9 +11,9 @@ As wildfires burn millions of acres each year around the globe and have become m
 
 *Picture of the Drone*
 
-![image](https://github.com/IRT-Drover/UAV-and-UGV-Autonomous-Cooperation-for-Wildfire-Hotspot-Surveillance/assets/74738050/5579a661-48cd-47b0-886c-6625530fd0f0)
+![image](https://github.com/IRT-Drover/UAV-and-UGV-Autonomous-Cooperation-for-Wildfire-Hotspot-Surveillance/assets/74738050/5579a661-48cd-47b0-886c-6625530fd0f0 *Picture of the Rover*)
 
-*Picutre of the Rover*
+
 
 ## System Design
 The system consists of three main components: a drone, a rover, and a ground station (The Drone and Rover are seen in images below). All devices are connected through a server powered by [Apache Kafka](https://kafka.apache.org/) to which data and commands are sent. The order of operations for the system is:
