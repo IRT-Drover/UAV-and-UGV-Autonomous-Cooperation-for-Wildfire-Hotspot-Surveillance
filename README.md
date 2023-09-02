@@ -8,9 +8,11 @@ This repository is the code for the paper [_UAV and UGV Autonomous Cooperation f
 As wildfires burn millions of acres each year around the globe and have become more severe due to climate change, wildfire prevention is more important now than ever. Existing wildfire surveying techniques such as hotspotting and cold trailing require human interventions that can lead to dangerous situations or satellite imagery which does not provide real-time data on hotspots. To address this problem, we propose a low-cost and effective integrated system of robots composed of an unmanned aerial vehicle (UAV, or drone) and unmanned ground vehicle (UGV, or rover) that autonomously cooperate and pathfind to detect and investigate hotspots. The UAV monitors a post-forest fire area from the air and uses aerial footage to create long-term direction for the UGV to inspect specific suspected hotspots. The UGV then follows the path to investigate each hotspot with centimeter-level accuracy. Testing of the pathfinding system with satellite imagery yielded highly accurate and consistent results necessary for high-precision autonomous navigation when investigating hotspots in dynamic environments.
 
 ![image](https://github.com/IRT-Drover/UAV-and-UGV-Autonomous-Cooperation-for-Wildfire-Hotspot-Surveillance/assets/74738050/c3c52e14-d321-4884-bf1d-6824f154db81)
+
 *Picture of the Drone*
 
 ![image](https://github.com/IRT-Drover/UAV-and-UGV-Autonomous-Cooperation-for-Wildfire-Hotspot-Surveillance/assets/74738050/5579a661-48cd-47b0-886c-6625530fd0f0)
+
 *Picutre of the Rover*
 
 ## System Design
@@ -23,6 +25,7 @@ The system consists of three main components: a drone, a rover, and a ground sta
    3.The GPS coordinates are then sent to the rover. The rover follows the path and adjusts to any obstacles overlooked by A* with an obstacle-avoidance algorithm.
 
 ![image](https://github.com/IRT-Drover/UAV-and-UGV-Autonomous-Cooperation-for-Wildfire-Hotspot-Surveillance/assets/74738050/72b39f77-eef9-4f0d-8e65-1530d33ab0e0)
+
 *Figure of the System Design*
 
 
@@ -38,6 +41,7 @@ The Camera Calibration folder contains intrinsic parameters for camera undistort
 The parts list is also included in the repository.
 
 ![image](https://github.com/IRT-Drover/UAV-and-UGV-Autonomous-Cooperation-for-Wildfire-Hotspot-Surveillance/assets/74738050/e6e88831-7b5c-49aa-b36a-5d0e377425f4)
+
 *Picture of the Softwares Used*
 
 ## Support
